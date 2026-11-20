@@ -76,6 +76,11 @@ Detail lengkap ada di [`README_XENDIT.md`](README_XENDIT.md).
 - Isi `uploads/properties/`, log runtime, dan file editor/OS juga diabaikan.
 - Kredensial database dibaca dari environment variable dengan fallback default lokal.
 
+## Aset Promosi
+
+- [Prompt video Remotion](docs/prompt-video-promosi-remotion-daff-airbnb.md) — brief, storyboard, dan spesifikasi animasi video promosi 30 detik.
+- [QR code demo](promo-assets/qr/) — QR untuk membuka aplikasi dari HP di jaringan WiFi yang sama.
+
 ## Lisensi & Kredit
 
 Gambar properti menggunakan sumber gratis; lihat [`images/properties/CREDITS.md`](images/properties/CREDITS.md).
