@@ -1,0 +1,23 @@
+# Kredensial & konfigurasi lokal
+config/xendit.local.php
+.env
+.env.*
+!.env.example
+
+# Runtime / log
+storage/logs/*
+!storage/logs/.gitkeep
+
+# File upload pengguna (jangan commit isi upload)
+uploads/properties/*
+!uploads/properties/.gitkeep
+
+# File gambar rusak/kosong
+images/hero-bali.jpg
+
+# Editor & OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
