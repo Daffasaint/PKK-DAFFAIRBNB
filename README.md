@@ -53,8 +53,8 @@ pembayaran.php, invoice.php, pesananku.php
 
 | Role | Email | Password |
 |---|---|---|
-| Owner/Admin | `owner@daff.com` | `admin123` |
-| User | `user@daff.com` | `user123` |
+| Owner/Admin | `owner@daff.com` | `blacksmith13` |
+| User | `user@daff.com` | `blacksmith13` |
 
 > **Penting:** ganti password akun demo sebelum aplikasi dipakai di server publik.
 

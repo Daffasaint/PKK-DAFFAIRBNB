@@ -146,9 +146,9 @@ CREATE TABLE payments (
 
 INSERT INTO users (full_name, email, phone, password, role) VALUES
 ('DAFF Owner', 'owner@daff.com', '081234567890',
- '$2y$10$X3x8bLVRRucLYwmAea5wG.8i0GzuM2pecbaUoflgkSmLfLc2y2EPK', 'admin'),
+ '$2y$10$KXTIGUg5PBoz7HtTQZyat.DCc5RGPTG5DVH0RzJeDzItUFcRBWSk.', 'admin'),
 ('Budi Santoso', 'user@daff.com', '081298765432',
- '$2y$10$h83ZBJYYGPuOvvX/I8MNqefqaR8YaSUthIqeIaJTlrLcORP7J6AG.', 'user');
+ '$2y$10$KXTIGUg5PBoz7HtTQZyat.DCc5RGPTG5DVH0RzJeDzItUFcRBWSk.', 'user');
 
 INSERT INTO properties
   (name, location, category, price, rating, reviews, guests, bedrooms, bathrooms,
